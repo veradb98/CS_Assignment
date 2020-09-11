@@ -15,4 +15,4 @@ DW Ziegler et al., 2005
 
 The provided data provides the following graph:
 
-![plot](plot.jpg)plot.jpg
+![plot](plot.jpg)
