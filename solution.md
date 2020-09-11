@@ -15,4 +15,4 @@ DW Ziegler et al., 2005
 
 The provided data provides the following graph:
 
-
+[!]('Correlation between beer consumption and university students.jpg')
